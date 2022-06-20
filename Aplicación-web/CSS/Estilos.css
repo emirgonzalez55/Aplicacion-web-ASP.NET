@@ -1,0 +1,43 @@
+﻿body {
+    background-color: rgb(250 235 215);
+}
+label {
+    background-color: #0000FF;
+    color: #00FF00;
+    font-size: 12pt;
+    font-family: Arial;
+}
+.obligatorio {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 14pt;
+    font-weight: bold;
+}
+.preferencias {
+    background-color: #00FF00;
+    color: #000000;
+    font-size: 8pt;
+}
+.enfocada {
+    background-color: #66CCFF;
+    color: #3333CC;
+    font-family: Calibri;
+}
+.desenfocada {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
+.cometarios {
+    background-color: black;
+    width: 300px;
+}
+.botones{
+    text-align:right;
+}
+table{
+    margin:auto;
+}
+.titulo{
+    text-align:center;
+}
